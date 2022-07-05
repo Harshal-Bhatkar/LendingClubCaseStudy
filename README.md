@@ -10,7 +10,7 @@
 * [Technologies Used](#technologies-used)
 * [Process Involved](#process-involved)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 
 ## General Information
@@ -45,28 +45,19 @@
 - Observations from analysis
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+These are recommendations we can make from the Analysis of the above loans 
+data:
+- Verify the loans if the loan amount is less (Verification Status and Funded 
+Amount by Investors)
+- Give loans to the right purpose. The loans for the debt consolidation, small 
+business, and credit card types are riskier. (Purpose).
+- Make changes to the duration of a loan term. (Term)
+- Mortgage Loans bring you loss. So avoid them. (Home Ownership)
 
 ## Contact
 Created by 
-    Sunkannah Basa()
+    Sunkannah Basa(sunkannah346@gmail.com)
     Harshal Bhatkar(harshalbhatkar10f98@gmail.com)
 
-- feel free to contact us!
+feel free to reach out to us!!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
